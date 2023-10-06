@@ -1,1 +1,2 @@
 # Data-Structure-And-Algorithm-Cpp
+This repository contains C++ code examples and practice exercises focused on various data structures. Explore this resource to enhance your understanding of fundamental data structures such as arrays, linked lists, stacks, and queues through practical coding exercises. Sharpen your problem-solving skills and prepare for coding interviews or academic studies with hands-on practice.
